@@ -22,6 +22,7 @@ Written after watching our own numbers lie to us, in both directions.
 | [repeats-and-confidence](notes/repeats-and-confidence.md) | "we ran it 7 times" as a substitute for a precision budget |
 | [pin-the-model-not-the-alias](notes/pin-the-model-not-the-alias.md) | benchmarking a pointer that moves |
 | [thermal-state-is-a-variable](notes/thermal-state-is-a-variable.md) | the afternoon re-run that "regressed" 12% |
+| [cache-aware-cost-accounting](notes/cache-aware-cost-accounting.md) | a per-task price that only exists while the cache is warm |
 
 ## House rules
 
