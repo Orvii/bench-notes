@@ -20,6 +20,7 @@ Written after watching our own numbers lie to us, in both directions.
 | [publish-the-negative](notes/publish-the-negative.md) | a wins-only table nobody can believe |
 | [ci-is-a-detector-not-a-ruler](notes/ci-is-a-detector-not-a-ruler.md) | publishing CI-runner noise as a performance claim |
 | [repeats-and-confidence](notes/repeats-and-confidence.md) | "we ran it 7 times" as a substitute for a precision budget |
+| [pin-the-model-not-the-alias](notes/pin-the-model-not-the-alias.md) | benchmarking a pointer that moves |
 
 ## House rules
 
