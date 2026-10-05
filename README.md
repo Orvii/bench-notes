@@ -36,4 +36,4 @@ Orvii — Open, Research, Vision, Innovation & Ideas. Contributions welcome: a n
 
 ---
 
-Part of the Orvii research set: [equivalence-notes](https://github.com/Orvii/equivalence-notes) (proving transformations preserve behavior) · [retractions](https://github.com/Orvii/retractions) (beliefs we published and killed) · [harness-atlas](https://github.com/Orvii/harness-atlas) (what the tools actually support).
+Part of the Orvii research set: [harness-atlas](https://github.com/Orvii/harness-atlas) · [convention-map](https://github.com/Orvii/convention-map) · [bench-notes](https://github.com/Orvii/bench-notes) · [equivalence-notes](https://github.com/Orvii/equivalence-notes) · [provider-reliability](https://github.com/Orvii/provider-reliability) · [retractions](https://github.com/Orvii/retractions) · [svg-instruments](https://github.com/Orvii/svg-instruments).
