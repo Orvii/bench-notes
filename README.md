@@ -18,6 +18,7 @@ Written after watching our own numbers lie to us, in both directions.
 | [checksum-anti-dce](notes/checksum-anti-dce.md) | timing an empty loop the optimizer left behind |
 | [ffi-boundary-crossover](notes/ffi-boundary-crossover.md) | "WASM is faster" at exactly one workload size |
 | [publish-the-negative](notes/publish-the-negative.md) | a wins-only table nobody can believe |
+| [ci-is-a-detector-not-a-ruler](notes/ci-is-a-detector-not-a-ruler.md) | publishing CI-runner noise as a performance claim |
 
 ## House rules
 
