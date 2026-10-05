@@ -1,5 +1,13 @@
 # Changelog
 
+## [2026-10-05] - Note 14: the benchmark code is the result
+
+### Added
+- `notes/the-benchmark-code-is-the-result.md` — an unauditable number is a vendor claim; the harness, input generator, environment block and raw rows ship in the same commit as the chart.
+
+### Modified
+- `README.md` note index (14 rows), `hero.svg` count line.
+
 ## [2026-10-05] - Initial release: thirteen notes
 
 ### Added

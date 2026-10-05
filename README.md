@@ -26,6 +26,7 @@ Written after watching our own numbers lie to us, in both directions.
 | [agent-benchmarks-measure-the-stack](notes/agent-benchmarks-measure-the-stack.md) | quoting a scaffold score as a model score |
 | [the-environment-block-is-part-of-the-result](notes/the-environment-block-is-part-of-the-result.md) | a number with no machine attached |
 | [paired-comparisons](notes/paired-comparisons.md) | batch A then batch B, and measure the cooling curve |
+| [the-benchmark-code-is-the-result](notes/the-benchmark-code-is-the-result.md) | a cited "10x faster" chart whose harness was never published |
 
 ## House rules
 
