@@ -1,5 +1,13 @@
 # Changelog
 
+## [2026-10-05] - Note 15: where in the distribution
+
+### Added
+- `notes/where-in-the-distribution.md` — mean, median and tail can carry opposite signs for the same experiment; name the statistic that matches the decision and show the others.
+
+### Modified
+- `README.md` note index (15 rows), `hero.svg` count line.
+
 ## [2026-10-05] - Note 14: the benchmark code is the result
 
 ### Added

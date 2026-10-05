@@ -27,6 +27,7 @@ Written after watching our own numbers lie to us, in both directions.
 | [the-environment-block-is-part-of-the-result](notes/the-environment-block-is-part-of-the-result.md) | a number with no machine attached |
 | [paired-comparisons](notes/paired-comparisons.md) | batch A then batch B, and measure the cooling curve |
 | [the-benchmark-code-is-the-result](notes/the-benchmark-code-is-the-result.md) | a cited "10x faster" chart whose harness was never published |
+| [where-in-the-distribution](notes/where-in-the-distribution.md) | a "10% cheaper" headline whose median run got dearer |
 
 ## House rules
 

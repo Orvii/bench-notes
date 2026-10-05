@@ -1,0 +1,11 @@
+# Say which part of the distribution moved
+
+**Claim.** "X improved by N%" is incomplete until it says where in the distribution the improvement lives: the typical run (median), the average including the tail (mean), or the tail alone. An intervention can shrink the expensive tail while making the typical run worse, and every summary statistic that averages over both will report a win.
+
+**Why.** Cost and latency distributions in agent and inference work are heavily right-skewed — a handful of runaway runs dominate the mean. Interventions that cap or shortcut the worst cases (timeouts, early exits, better routing on hard tasks) move the mean dramatically and the median not at all. The reverse also happens: an optimization that speeds up every ordinary run but leaves pathological ones pathological moves the median and barely touches the mean. Mean-only and median-only reports of the *same experiment* can carry opposite signs.
+
+**Failure example.** A study reports that adding a repository instruction file cuts total token use ~10% (mean). The same table shows the median run used 1.3% *more* tokens, and the input-token median up 3.4%. The "savings" were a shrunken tail: a few very expensive runs got cheaper. Secondary coverage generalized the mean into "the file saves tokens"; the typical user's run got slightly dearer. The paper's own prose admitted the tail mechanism — one table row away from the headline.
+
+**Method.** For any cost/latency claim, publish mean, median, and at least one tail statistic (p95 or the max, plus the standard deviation so the skew is visible: a std dev near or above the mean is the warning light). State in one sentence which part moved: "the tail shrank", "the typical run improved", or "everything shifted". If mean and median disagree in sign, that disagreement is the finding — lead with it, do not bury it in a table.
+
+**Counter-note.** Some decisions genuinely care about the mean: total spend is the sum, and the sum is the mean times n. A fleet operator optimizing invoice size wants the mean even when the median rises. The rule is not "median good, mean bad" — it is "name the statistic that matches the decision, and show the others so the reader can check you picked honestly."
