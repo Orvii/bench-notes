@@ -30,3 +30,7 @@ Written after watching our own numbers lie to us, in both directions.
 ---
 
 Orvii — Open, Research, Vision, Innovation & Ideas. Contributions welcome: a new note needs a claim, a failure example, evidence and a counter-note. Anything less is a tweet.
+
+---
+
+Part of the Orvii research set: [equivalence-notes](https://github.com/Orvii/equivalence-notes) (proving transformations preserve behavior) · [retractions](https://github.com/Orvii/retractions) (beliefs we published and killed) · [harness-atlas](https://github.com/Orvii/harness-atlas) (what the tools actually support).
