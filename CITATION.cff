@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you cite this research set, please use this metadata."
+type: dataset
+title: "bench-notes — short evidence-backed notes on benchmarking and measurement practice"
+authors:
+  - name: "Orvii"
+    alias: "Orvii collective"
+identifiers:
+  - type: url
+    value: "https://github.com/Orvii/bench-notes"
+repository-code: "https://github.com/Orvii/bench-notes"
+version: "1.5.0"
+date-released: "2026-10-06"
+notes: "Fifteen notes; each carries a claim, a failure example, evidence and a counter-note."
