@@ -42,5 +42,5 @@
     <text x="690" y="240" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#FEAF12">median: the run you actually get</text>
   </g>
 
-  <text x="60" y="300" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#6e5c50">fifteen notes · each with a failure example and the case where the advice inverts</text>
+  <text x="60" y="300" font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#6e5c50">sixteen notes · each with a failure example and the case where the advice inverts</text>
 </svg>

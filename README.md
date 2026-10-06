@@ -28,6 +28,7 @@ Written after watching our own numbers lie to us, in both directions.
 | [paired-comparisons](notes/paired-comparisons.md) | batch A then batch B, and measure the cooling curve |
 | [the-benchmark-code-is-the-result](notes/the-benchmark-code-is-the-result.md) | a cited "10x faster" chart whose harness was never published |
 | [where-in-the-distribution](notes/where-in-the-distribution.md) | a "10% cheaper" headline whose median run got dearer |
+| [measure-outflow-not-inflow](notes/measure-outflow-not-inflow.md) | "active community" inferred from open PRs | count what leaves the system (merges, completions), never what enters |
 
 ## House rules
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026-10-06] - note 16: measure outflow, not inflow
+
+### Added
+- `notes/measure-outflow-not-inflow.md` — liveness and throughput are properties of the drain, not the queue: merged PRs, releases, completions over a window, plus the age of the oldest unprocessed item. Born from the dead-awesome-list retraction (retractions 008) and generalized to job queues and benchmark harnesses.
+- README table row; hero.svg count fifteen → sixteen.
+
 ## [2026-10-05] - Note 15: where in the distribution
 
 ### Added
